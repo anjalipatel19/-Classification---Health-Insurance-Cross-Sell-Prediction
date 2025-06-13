@@ -4,7 +4,7 @@
 
 This project applies machine learning classification techniques to predict whether existing health insurance customers will be interested in purchasing vehicle insurance. By analyzing demographic and policy-related data, the project helps insurance companies identify potential cross-sell opportunities and improve customer targeting strategies.
 
-> **Project Type**: Classification
+> **Project Type**: Classification 
 > **Contributor**: *Anjali Patel*
 
 ## Project Summary
